@@ -96,7 +96,7 @@ with st.sidebar:
     partial_n = sum(1 for v in g.values() if v == "partial")
     st.markdown(f"**Score so far:** {correct_n} correct, {partial_n} partial")
     st.markdown("---")
-    st.caption("📚 HI 820 — LM8: Classification Models + High Utilizer Prediction")
+    st.caption("📚 HI 780 — LM8: Classification Models + High Utilizer Prediction")
 
 
 # ═══════════════════════════════════════════════════════════════
